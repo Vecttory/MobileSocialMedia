@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import {Image, Text, View} from 'react-native';
+import {Text, View} from 'react-native';
 import style from '../UserStory/style';
 import UserProfileImage from '../UserProfileImage/UserProfileImage';
 
